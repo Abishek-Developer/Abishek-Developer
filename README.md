@@ -14,7 +14,7 @@
   <a href="mailto:abishekssk@gmail.com">
     <img align="left" alt="Ananya Ghosh | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> 
-  <a href="https://www.hackerrank.com/ananya_ghosh2020" target="blank">
+  <a href="https://www.hackerrank.com/abishekssk" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
   </a>
   
